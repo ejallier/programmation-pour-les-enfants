@@ -10,6 +10,10 @@ Programmation "avec des blocs"
 ------------------------------
 Beaucoup de resources qui présentent un programme sous la forme de blocs logiques à assembler, choisis parmi une liste. Il faut savoir lire, parfois en anglais. Typiquement à partir de 8 ans.
 
+### code.org
+Avant scratch, plus simple pour débuter, avec des missions à remplir.
+https://code.org/
+
 ### Scratch
 Très populaire ; traduit en Français. Les enfants l'utilisent souvent pour créer des histoires animées mais il est possible de créer des jeux sophistiqués. Possibilité de partager les résultats sur le site officiel. http://scratch.mit.edu/
 
